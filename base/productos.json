@@ -1,0 +1,42 @@
+[
+    {
+        "1": {
+            "item": "iPhone 14",
+            "precio": 1099,
+            "local": "Apple Store",
+            "stock": 3
+        }
+    },
+    {
+        "2": {
+            "item": "Samsung Galaxy S21",
+            "precio": 999,
+            "local": "Samsung",
+            "stock": 8
+        }
+    },
+    {
+        "3": {
+            "item": "MacBook Pro 16",
+            "precio": 2399,
+            "local": "Apple Store",
+            "stock": 2
+        }
+    },
+    {
+        "4": {
+            "item": "Dell XPS 13",
+            "precio": 1199,
+            "local": "Best Buy",
+            "stock": 5
+        }
+    },
+    {
+        "5": {
+            "item": "Nintendo Switch",
+            "precio": 299,
+            "local": "Nintendo Store",
+            "stock": 0
+        }
+    }
+]

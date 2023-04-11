@@ -1,0 +1,71 @@
+{
+    "pbarro": {
+        "nombre": "Paula",
+        "apellido": "Barro",
+        "dni": "12345678",
+        "nacimiento": "14/08/1991",
+        "direccion": "Rivadavia 1234",
+        "clave": "1234",
+        "compras": {
+            "compra0": {
+                "item": "iPhone 14",
+                "precio": 1099,
+                "local": "Apple Store"
+            },
+            "compra1": {
+                "item": "Samsung Galaxy S21",
+                "precio": 999,
+                "local": "Samsung"
+            },
+            "compra2": {
+                "item": "iPhone 14",
+                "precio": 1099,
+                "local": "Apple Store"
+            },
+            "compra3": {
+                "item": "iPhone 14",
+                "precio": 1099,
+                "local": "Apple Store"
+            },
+            "compra4": {
+                "item": "iPhone 14",
+                "precio": 1099,
+                "local": "Apple Store"
+            }
+        }
+    },
+    "rodri": {
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "dni": "20654498",
+        "nacimiento": "12/07/1986",
+        "direccion": "Alberdi 1234",
+        "clave": "123456",
+        "compras": {
+            "compra0": {
+                "item": "iPhone 14",
+                "precio": 1099,
+                "local": "Apple Store"
+            },
+            "compra1": {
+                "item": "Nintendo Switch",
+                "precio": 299,
+                "local": "Nintendo Store"
+            },
+            "compra2": {
+                "item": "Dell XPS 13",
+                "precio": 1199,
+                "local": "Best Buy"
+            }
+        }
+    },
+    "hola": {
+        "nombre": "asdada",
+        "apellido": "dasdad",
+        "dni": "12345678",
+        "nacimiento": "11/11/2013",
+        "direccion": "adadasd",
+        "clave": "asdada",
+        "compras": []
+    }
+}

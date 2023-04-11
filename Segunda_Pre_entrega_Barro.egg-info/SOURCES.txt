@@ -1,0 +1,10 @@
+MANIFEST.in
+setup.py
+Segunda_Pre_entrega_Barro.egg-info/PKG-INFO
+Segunda_Pre_entrega_Barro.egg-info/SOURCES.txt
+Segunda_Pre_entrega_Barro.egg-info/dependency_links.txt
+Segunda_Pre_entrega_Barro.egg-info/top_level.txt
+base/base_de_datos.json
+paquete_barro/bd.py
+paquete_barro/cliente.py
+paquete_barro/menu.py
